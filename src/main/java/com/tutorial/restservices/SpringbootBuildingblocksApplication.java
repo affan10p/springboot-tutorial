@@ -1,4 +1,4 @@
-package com.tutorial.restservices.springbootbuildingblocks;
+package com.tutorial.restservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
